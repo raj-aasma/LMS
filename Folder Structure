@@ -1,0 +1,12 @@
+/project-folder
+    /css
+        styles.css
+    /js
+        script.js
+    /bootstrap
+        (Optional: Bootstrap files if not using CDN)
+    login.html
+    register.html
+    profile.html
+    dashboard.html
+    README.md
